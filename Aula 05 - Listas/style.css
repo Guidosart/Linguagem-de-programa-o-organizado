@@ -1,0 +1,29 @@
+h1{
+	font-family: arial;
+	font-size: 60pt;
+	color: #DE7A57 ;
+	background-color: #F5B76C;
+	padding: 50px; 
+	text-align: center;
+}
+	
+.destaque{
+	color: #DE7A57;
+	font-size: 30pt;
+	background-color: #F5B76C;
+	font-family: arial;
+	padding: 15px;
+	width: 900px; 
+	text-align: center;
+}
+
+body{ font-family: arial;
+	color: #83420C;
+}
+
+.pequeno{ 
+	font-size: 10px;
+	background-color: #F5B76C ;
+	text-align: left;
+
+}
